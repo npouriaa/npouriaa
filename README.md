@@ -5,7 +5,23 @@
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on Front-end Web Developing
 - 👀 I’m Interstead in Front-End Web Developing
-- 📫 How to reach me: npouriaa@gmail.com / @npouriaa on instagram and telegram
+
+## ✉️ Find me on:
+
+<p>
+  <a href="https://www.instagram.com/npouriaa/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="instagram" height="40" style="vertical-    align:top; margin:4px">
+  </a>
+  <a href="https://t.me/npouriaa">
+    <img src="https://static.vecteezy.com/system/resources/previews/017/221/781/original/telegram-logo-transparent-free-png.png" alt="telegram" height="40" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.linkedin.com/in/pouria-navipour-7b52b0272">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedin" height="40" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="npouriaa@gmail.com">
+    <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="instagram" height="40" style="vertical-align:top; margin:4px">
+  </a>
+</p>
 
 <br />
 
