@@ -38,9 +38,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" alt="React" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
 <img src="https://prismatic.io/docs/img/components/icons/ms-sql-server.png" alt="SQL Server" height="40" style="vertical-align:top; margin:4px">
-
-
 </p>
+
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npouriaa&theme=tokyonight)
