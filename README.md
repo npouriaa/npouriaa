@@ -9,4 +9,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npouriaa&theme=tokyonight)
-![](https://visitor-badge.laobi.icu/badge?page_id=npouriaa.npouriaa)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=npouriaa&show_icons=true&theme=tokyonight)
+
