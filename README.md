@@ -7,5 +7,5 @@
 - 👀 I’m Interstead in Front-End Web Developing
 - 📫 How to reach me: npouriaa@gmail.com / @npouriaa on instagram and telegram
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npouriaa&hide=javascript,css,scss,html&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npouriaa&theme=tokyonight)
