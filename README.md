@@ -8,4 +8,4 @@
 - 📫 How to reach me: npouriaa@gmail.com / @npouriaa on instagram and telegram
 
 [![Npouriaa's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=npouriaa&hide=Html,Css,Tailwind,Bootstrap,Scss,Git,Javascript,React,Wordpress,C#=algolia&show_icons=true)]
-
+(https://github.com/npouriaa)
