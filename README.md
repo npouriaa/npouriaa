@@ -19,7 +19,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedin" height="40" style="vertical-align:top; margin:4px">
   </a>
   <a href="mailto:npouriaa@gmail.com">
-    <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="instagram" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
