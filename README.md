@@ -2,7 +2,7 @@
 
 <!-- **npouriaa/npouriaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Next JS
 - 👯 I’m looking to collaborate on Front-end Web Developing
 - 👀 I’m Interstead in Front-End Web Developing
 
