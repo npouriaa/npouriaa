@@ -9,9 +9,6 @@
 ## ✉️ Find me on:
 
 <p>
-  <a href="https://www.instagram.com/npouriaa/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="instagram" height="40" style="vertical-    align:top; margin:4px">
-  </a>
   <a href="https://t.me/npouriaa">
     <img src="https://static.vecteezy.com/system/resources/previews/017/221/781/original/telegram-logo-transparent-free-png.png" alt="telegram" height="40" style="vertical-align:top; margin:4px">
   </a>
