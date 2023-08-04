@@ -1,46 +1,16 @@
-### Hi there 👋
-
 <!-- **npouriaa/npouriaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🌱 I’m currently learning Next JS
-- 👯 I’m looking to collaborate on Front-end Web Developing
-- 👀 I’m Interstead in Front-End Web Developing
-
-## ✉️ Find me on:
-
-<p>
-  <a href="https://t.me/npouriaa">
-    <img src="https://static.vecteezy.com/system/resources/previews/017/221/781/original/telegram-logo-transparent-free-png.png" alt="telegram" height="40" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.linkedin.com/in/pouria-navipour-7b52b0272">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedin" height="40" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="mailto:npouriaa@gmail.com">
-    <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px">
-  </a>
-</p>
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pouria-navipour-7b52b0272/) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/npouriaa)
 
 
-## 🧰 Languages and Tools:
-<p>
-<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="Visual studio" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vs code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="SCSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://iconape.com/wp-content/png_logo_vector/tailwind-css-logo.png" alt="Tailwind CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" alt="React" height="40" style="vertical-align:top; margin:4px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Vgh54QqnWn2PeSFtJftFHkI4PySszPzl8_ALRVKWVKWtb_ywvdHQ0MziU3cpeR4oy50&usqp=CAU" alt="Next js" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
-<img src="https://prismatic.io/docs/img/components/icons/ms-sql-server.png" alt="SQL Server" height="40" style="vertical-align:top; margin:4px">
-</p>
+# 💻 Languages and Tools:
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge) ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstarp](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![Ant Design Badge](https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=fff&style=for-the-badge) ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=for-the-badge) ![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=npouriaa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=npouriaa&theme=tokyonight&hide_border=false)<br/>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npouriaa&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=npouriaa&show_icons=true&theme=tokyonight)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=npouriaa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
